@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GreenText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#31473A</item>
+        <item name="android:padding">2dp</item>
+        <item name="android:background">#EDF4F2</item>
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:colorAccent">#495E35</item>
+    </style>
+</resources>
